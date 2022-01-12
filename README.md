@@ -1,8 +1,8 @@
 - Hi, I'm Basel Allam :D
-- Undergraduate student with a Computer Science Major 
-     |-|  __
-     |=| [Ll]
-     "^" ====`o
+- Undergraduate student with a Computer Science Major
+-     |-|  __
+-     |=| [Ll]
+-     "^" ====`o
 - Interested in Game Design/Development and Cloud Domputing
 - Currently working on a 2D platformer game for practice
 - Send me a message on discord BA#8350
