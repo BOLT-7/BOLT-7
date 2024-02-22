@@ -1,4 +1,4 @@
-# Man, who even reads these :P
+# Ride on!
 
 <!---
 BOLT-7/BOLT-7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
