@@ -57,7 +57,7 @@ A little bit about myself:
 
 </p>
 
-### IDEs
+### IDEs:
 
 <p>
   <img alt="Static Badge" src="https://img.shields.io/badge/Visual%20Studio-%235C2D91?style=plastic&logo=visualstudio&logoColor=white">
@@ -79,7 +79,7 @@ A little bit about myself:
   <img alt="Static Badge" src="https://img.shields.io/badge/Gamemaker-%23000000?style=plastic&logo=gamemaker&logoColor=white">
 </p>
 
-### Miscellaneous
+### Miscellaneous:
 
 <p>
   <img alt="Static Badge" src="https://img.shields.io/badge/Git-%23F05032?style=plastic&logo=git&logoColor=white">
