@@ -68,7 +68,7 @@ A little bit about myself:
   <img alt="Static Badge" src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000?style=plastic&logo=intellijidea&logoColor=white">
 </p>
 
-### Game Engines
+### Game Engines:
 
 <p>
   <img alt="Static Badge" src="https://img.shields.io/badge/Unity-%23FFFFFF?style=plastic&logo=unity&logoColor=white">
