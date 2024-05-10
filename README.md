@@ -3,7 +3,7 @@
 # Ride on!
 
 ---
-Hello!
+Hello (￣▽￣)ノ
 
 I'm Basel, a computer science student currently enrolled at [SMU](https://www.smu.ca).
 
